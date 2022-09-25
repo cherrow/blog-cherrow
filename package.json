@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bulma-stylus": "^0.8.0",
-    "hexo": "^5.0.0",
+    "hexo": "^5.4.2",
     "hexo-abbrlink": "^2.2.1",
     "hexo-asset-image": "git+https://github.com/foreveryang321/hexo-asset-image.git",
     "hexo-baidu-url-submit": "0.0.6",
